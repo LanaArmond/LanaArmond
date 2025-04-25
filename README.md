@@ -50,21 +50,26 @@
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LanaArmond_Gmail" />
   </a>
   
-  <a href="https://t.me/LanaArmond" target="blank">
+  <!--
+
+  <a href=" " target="blank">
   <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LanaArmond_Telegram" />
   </a>
-  
-  <a href="https://www.instagram.com/lana_dosrei/" target="blank">
+
+  <a href=" " target="blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LanaArmond_Instagram" />
   </a>
-  
-  <a href="https://www.facebook.com/Tia.Lana.Quinzel" target="blank">
+
+  <a href=" " target="blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="LanaArmond_Facebook" />
   </a>
   
-  <a href="discordapp.com/users/535828480592707595" target="blank">
+  <a href=" " target="blank">
   <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="LanaArmond_Discord" />
   </a>
+
+  -->
+  
   
 </div>
 
